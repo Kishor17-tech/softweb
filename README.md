@@ -295,13 +295,11 @@ Publish the website in the given URL.
 </html>
 
 ```
-
-
 ## OUTPUT:
-![alt text](softweb/jaga/index.png)
-![alt text](softweb/jaga/menu.png)
-![alt text](softweb/jaga/admin.png)
-![alt text](softweb/jaga/contact.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
